@@ -3,10 +3,10 @@ $Host.UI.RawUI.WindowTitle = "MAMIPOKO ค่าขาว V1"
 function Banner {
 Clear-Host
 Write-Host ""
-Write-Host "███╗   ███╗ █████╗ ███╗   ███╗██╗██████╗  ██████╗ ██╗  ██╗ ██████╗ " -ForegroundColor RedgroundColor
+Write-Host "███╗   ███╗ █████╗ ███╗   ███╗██╗██████╗  ██████╗ ██╗  ██╗ ██████╗ " -ForegroundColor White
 Write-Host "████╗ ████║██╔══██╗████╗ ████║██║██╔══██╗██╔═══██╗██║ ██╔╝██╔═══██╗" -ForegroundColor White
 Write-Host "██╔████╔██║███████║██╔████╔██║██║██████╔╝██║   ██║█████╔╝ ██║   ██║" -ForegroundColor White
-Write-Host "██║╚██╔╝██║██╔══██║██║╚██╔╝██║██║██╔═══╝ ██║   ██║██╔═██╗ ██║   ██║" -ForegroundColor Magentata
+Write-Host "██║╚██╔╝██║██╔══██║██║╚██╔╝██║██║██╔═══╝ ██║   ██║██╔═██╗ ██║   ██║" -ForegroundColor White
 Write-Host "██║ ╚═╝ ██║██║  ██║██║ ╚═╝ ██║██║██║     ╚██████╔╝██║  ██╗╚██████╔╝" -ForegroundColor White
 Write-Host "╚═╝     ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝      ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ " -ForegroundColor White
 Write-Host ""
