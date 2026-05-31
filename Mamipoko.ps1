@@ -16,7 +16,7 @@ function Banner {
 
 Banner
 
-$key = Read-Host "กรุณาใส่ KEY"
+$key = Read-Host "ENTER KEY"
 
 if ($key -ne "Mamipoko089") {
     Write-Host ""
